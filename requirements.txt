@@ -16,7 +16,7 @@ attrs==23.2.0
     #   referencing
 backoff==2.2.1
     # via -r requirements.in
-certifi==2023.11.17
+certifi==2026.10.19
     # via
     #   httpcore
     #   httpx
@@ -74,7 +74,7 @@ pathspec==0.12.1
     # via
     #   -r requirements.in
     #   grep-ast
-pillow==10.2.0
+pillow==13.0.0
     # via -r requirements.in
 prompt-toolkit==3.0.43
     # via -r requirements.in
